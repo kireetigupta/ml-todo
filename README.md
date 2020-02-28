@@ -26,8 +26,8 @@ NLP
 
 Question & Answering
  -KB based question answering
-3. Chatbots 
-  - read a book/series 
+ -read up SOTA for KB based systems
+- identify what you have and what you need. 
 
 
 
