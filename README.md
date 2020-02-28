@@ -19,15 +19,11 @@ NLP
   - try implement sota 
   - build a pipeline arround this. 
   - incorporate this into the dashboard. 
-2. Question & Answering
- -KB based question answering
-3. Chatbots 
-  - read a book/series 
 
-Question & Answering
- -KB based question answering
- -read up SOTA for KB based systems
-- identify what you have and what you need. 
+2.Question & Answering
+  -KB based question answering
+  -read up SOTA for KB based systems
+  -identify what you have and what you need. 
 
 
 
